@@ -1,0 +1,5 @@
+arraycomparison -> compare between different chips (just load data in and plot)
+bapixelwise -> scatter plot dcr before and after (irradiation/annealing) 
+beforeandaftermedian -> median plot of dcr before/after (irradiation/annealing)
+cuml -> dcr cumulative for a chip
+mediandcrbias -> classic median dcr vs bias (same as array comparison kinda but all loaded data from before irradiation)
