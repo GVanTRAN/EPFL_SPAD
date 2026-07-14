@@ -1,0 +1,8 @@
+cumulpdppixelwise -> cumulative + median pdp plot 
+lcr cumul -> lcr, dcr, lcr - dcr cumul plot
+pdp_heatmap -> heat map of pdp
+pdpvsdcr -> pdp vs ln(dcr) (each data point is from different bias)
+roipdp -> check cumulative pdp from the heatmap for a region of interest
+
+lighton -> subfile to get spad counts from data file
+photonflux -> subfile to get incident photon flux from calib file and Hamamatsu ref
